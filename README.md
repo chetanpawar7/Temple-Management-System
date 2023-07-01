@@ -3,9 +3,9 @@ php projects
 Requirement : 1.Xampp 
               2.Php Ide (eclipse Php ide)
               
-Project Setup :
-Step 1 : git clone https://github.com/chetanpawar7/PHP_Project.git
-Step 2 : copy sql file form otms/sqlfile/otms.sql file to xampp/htdocs/ -----------paste here
-Step 3 : Start the XAMPP serve apache and mysql
-Step 4: Open Project file (otms folder) Any PHP IDE and  run index.php file 
+# Project Setup 
+Step 1 : git clone https://github.com/chetanpawar7/PHP_Project.git<br>
+Step 2 : copy sql file form otms/sqlfile/otms.sql file to xampp/htdocs/ -----------paste here <br>
+Step 3 : Start the XAMPP serve apache and mysql<br>
+Step 4: Open Project file (otms folder) Any PHP IDE and  run index.php file  <br>
 
