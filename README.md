@@ -1,7 +1,8 @@
 # PHP_Project
 php projects 
-Requirement : 1.Xampp 
-              2.Php Ide (eclipse Php ide)
+Requirement :<br>
+1.Xampp <br>
+2.Php Ide (eclipse Php ide)
               
 # Project Setup 
 Step 1 : git clone https://github.com/chetanpawar7/PHP_Project.git<br>
